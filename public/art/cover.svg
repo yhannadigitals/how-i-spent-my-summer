@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1200">
+  <rect width="900" height="1200" fill="#fffdf8"/>
+  <circle cx="180" cy="180" r="86" fill="#FFD166" stroke="#000" stroke-width="8"/>
+  <path d="M60 250 C170 120, 300 120, 420 240 L420 360 C270 420, 150 430, 60 250 Z" fill="#A8E6CF" stroke="#000" stroke-width="8"/>
+  <path d="M470 250 C560 140, 710 150, 800 250 L800 560 C670 650, 510 620, 470 250 Z" fill="#BDE0FE" stroke="#000" stroke-width="8"/>
+  <g stroke="#000" stroke-width="8" fill="none">
+    <path d="M200 640 Q300 510 430 640"/>
+    <path d="M190 660 H430"/>
+    <path d="M630 670 Q700 590 770 670"/>
+    <path d="M610 690 H790"/>
+    <path d="M635 530 L670 470 L705 530"/>
+    <path d="M672 470 L672 350"/>
+    <circle cx="250" cy="540" r="58"/>
+    <circle cx="400" cy="520" r="62"/>
+    <ellipse cx="248" cy="551" rx="26" ry="18"/>
+    <ellipse cx="400" cy="528" rx="26" ry="18"/>
+    <path d="M285 250 Q320 210 356 250"/>
+    <path d="M524 260 Q560 220 598 260"/>
+    <path d="M600 690 L600 840"/>
+    <circle cx="600" cy="860" r="26"/>
+    <circle cx="660" cy="860" r="26"/>
+    <path d="M690 700 L740 800 L755 710"/>
+  </g>
+  <g fill="#000" font-family="Verdana, sans-serif" font-weight="700">
+    <text x="450" y="150" text-anchor="middle" font-size="62">HOW I SPENT</text>
+    <text x="450" y="220" text-anchor="middle" font-size="68">MY SUMMER</text>
+    <text x="450" y="290" text-anchor="middle" font-size="28">My Little Summer Adventures</text>
+  </g>
+  <g fill="#FF7F50" stroke="#000" stroke-width="8">
+    <path d="M120 980 L185 910 L250 980 Z"/>
+    <path d="M250 980 L210 890 L160 1000 Z"/>
+  </g>
+  <g stroke="#000" stroke-width="7" fill="none">
+    <path d="M340 1010 C420 980, 510 994, 570 1018"/>
+    <circle cx="330" cy="1015" r="22"/>
+    <circle cx="560" cy="1015" r="22"/>
+  </g>
+</svg>
